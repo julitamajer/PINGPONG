@@ -1,2 +1,1 @@
-# PINGPONG
-university project
+# pong
